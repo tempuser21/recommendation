@@ -1,3 +1,3 @@
 # recommendation
 
-rapor dosyasından detaylar görülebilir
+Rapor dosyasından detaylar görülebilir
